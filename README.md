@@ -9,6 +9,9 @@
 - ⚡ Fun fact: Not a fan of coffee while programming, yeah seriously.
 
 <!--START_SECTION:waka-->
+```text
+
+```
 <!--END_SECTION:waka-->
 
 <!--
