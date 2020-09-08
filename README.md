@@ -8,13 +8,6 @@
 - 📫 How to reach me: www.hiteshpaul.com
 - ⚡ Fun fact: Not a fan of coffee while programming, yeah seriously.
 
-<!--START_SECTION:waka-->
-```text
-Other    30 mins         ████████████████████████▓   98.74 % 
-Python   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
-TeX      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-<!--END_SECTION:waka-->
 
 <!--
 **TerminalWitchcraft/TerminalWitchcraft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
