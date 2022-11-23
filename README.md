@@ -5,7 +5,6 @@
 - 👯 I’m looking to collaborate on open-source projects related to distributed computing and/or Natural language Processing!
 - 🤔 I’m looking for help with learning/understanding programming for HPCs.
 - 💬 Ask me about Anime, Metal misic, Geopolitics, History, PC gaming!
-- 📫 How to reach me: www.hiteshpaul.com
 - ⚡ Fun fact: Not a fan of coffee while programming, yeah seriously.
 
 
