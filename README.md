@@ -1,8 +1,8 @@
 ### Hi there 👋! I'm Hitesh.
 
-- 🔭 I’m currently working on self-improvement and [actix-ratelimit](https://github.com/TerminalWitchcraft/actix-ratelimit)
+- 🔭 I’m currently working on self-improvement
 - 🌱 I’m currently learning to understand and optimize small snippets of assembly code just for fun :D 
-- 👯 I’m looking to collaborate on open-source projects related to distributed computing and/or Natural language Processing!
+- 👯 I’m looking to collaborate on open-source projects related to distributed computing and Natural language Processing!
 - 🤔 I’m looking for help with learning/understanding programming for HPCs.
 - 💬 Ask me about Anime, Metal misic, Geopolitics, History, PC gaming!
 - ⚡ Fun fact: Not a fan of coffee while programming, yeah seriously.
